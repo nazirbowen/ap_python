@@ -12,12 +12,11 @@ print(d)
 
 num_one = int(20)
 num_two= int(23.45)
-print(num_one)
-print(num_two)
+print(num_one + num_two)
 
 name_of_pet = "Spuny"
-age_of_pet = 10
+age_of_pet = str(10)
 
-print("this is my dog "+ name_of_pet + ". He is " + age_of_pet+ " years old.")
+print("this is my dog "+ name_of_pet + ". He is " + age_of_pet + " years old.")
 
 # commit note
