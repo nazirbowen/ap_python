@@ -21,7 +21,7 @@ print("b is greater than a")
 # NOT food in the fridge, print time to shop. 
 # When you call your function there should be an argument that accepts 
 # a boolean. 
-def def FoodInRefridgerator():
+def FoodInRefridgerator():
     
     if FoodInRefridgerator > NoFoodInRefridgerator:
         print('you have food')
@@ -35,3 +35,10 @@ FoodInRefridgerator():
 # If there is more than 10 boxes, print "inventory full", else if there are less than 
 # 10 boxes print "we need to order more cereal".
 
+def CerealInventory():
+
+    if  10ormore> 10orless :
+        print('inventory full')
+    else:
+        print(' we need to order more cereal.')
+CerealInventory():
