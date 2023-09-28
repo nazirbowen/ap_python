@@ -41,4 +41,4 @@ def CerealInventory():
         print('inventory full')
     else:
         print(' we need to order more cereal.')
-CerealInventory():
+CerealInventory ():
