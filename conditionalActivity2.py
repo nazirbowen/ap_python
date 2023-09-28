@@ -39,3 +39,10 @@ WhatTypePet():
 # IF the user is over 5.5, the function should return a custom message saying the user's name
 # and a message "welcome please buckle up".
 # ELSE if they they are not, return a message apologizing to the user saying they are not tall enough.
+
+def Username + Height():
+   if  ("user is over 5.5")
+        print("welcome please buckle up")
+    else: (" Sorry are not tall enough")
+        print("")
+Username():
