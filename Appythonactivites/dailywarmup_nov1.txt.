@@ -1,0 +1,10 @@
+Version Control  , the practice of tracking and managing changes to software code.
+
+3- things to be passed 
+    Commit Changes Atomically. 
+    Write Good Commit Messages
+    Don't Break Builds
+    Do Reviews Before Committing to a Shared Repository 
+    Make Sure Every Commit Is Traceable.
+
+    
