@@ -1,0 +1,9 @@
+What is Cesium ?
+
+What does Cesium have in connection with python ?
+
+How was Cesium invented ?
+
+When was Cesium Invented ?
+
+How might Cesium impact me later in life ?
