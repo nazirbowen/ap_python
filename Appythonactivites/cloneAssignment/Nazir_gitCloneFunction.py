@@ -1,9 +1,9 @@
 def profileData():
-    location = input('where are you from!')
+    Goal = input('what is your ideal weight goal?')
     name = input('whats your name?')
-    picture = input('upload a picture')
-    Hours = int(input('How many hours would you like to work'))
-    Salary = float(input('How much would you like to make'))
-    print('success! Welcome to indeed.')
+    picture = input('upload a before picture')
+    CurrentWeight= int(input('What is your current weight'))
+    WeightCounter = float(input('How much would you like to lose or gain'))
+    print('Welcome to your weight journey.')
 
 profileData()
