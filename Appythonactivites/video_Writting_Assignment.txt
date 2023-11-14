@@ -1,0 +1,23 @@
+For each video, write a paragraph that includes three (3) things you learned from each video. 
+Do your best to thoroughly explain and articulate what you learned about with the concepts from each video. 
+
+Early Computing: Crash Course Computer Science #1
+    I learned about the astrolabe, which enables ships to calculate their latitude at sea. 
+    I learned about the slide ruler, for assisting with multiplacation and division.
+    I also learned about all the clocks that can tell sunrise, tides , positions of celestial bodies
+    and even just time.
+
+Early Programming: Crash Course Computer Science #10
+    I learned textile manufacturing that makes clothes in a machine. 
+    I learned that Jacquards loom was one of the earliest forms of Programming. 
+    I also learned about tabulating machines which were used to get data from holes filled in.
+
+The First Programming Languages: Crash Course Computer Science #11
+    I learned Machine Code, That takes english and translate it to binary machine code.
+    I learned about assemblers, they take assembly language and converts it to native machine code.
+    I learned that they patch bugs by just putting paper on punch tape.
+
+Software Engineering: Crash Course Computer Science #16
+    I learned cars take functions and those functions get wrapped in objects related to the car.
+    I learned breaking up long fuctions with groups is more effective. 
+    I learned that you can set functions to private so only the public ones can be called.
